@@ -165,7 +165,7 @@ const HelloMessage = () => {
 
 ---
 
-#JSX
+# JSX
 ```jsx
 const element = (<div className="awesome">Hello aces</div>);
 // babel compiles it to
