@@ -261,3 +261,10 @@ console.log(++count);
     );
   }
 ```
+
+---
+
+# Slides
+
+* [Training Slides](https://github.com/Acesmndr/react-training-slides/tree/master/slides) 📺
+* [Training Repository](https://github.com/Acesmndr/react-training) 🏋🏼‍♂️
