@@ -131,6 +131,12 @@ function App() {
 
 ---
 
+# One way data binding
+
+* Only bind the data from component to the view or from view to the component.
+
+---
+
 # Hooks I will not cover
 
 * useReducer

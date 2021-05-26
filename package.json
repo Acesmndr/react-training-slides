@@ -1,0 +1,8 @@
+{
+  "name": "react-training-slides",
+  "version": "1.0.0",
+  "description": "Training slides for react training",
+  "main": "index.js",
+  "author": "acesmndr",
+  "license": "MIT"
+}
